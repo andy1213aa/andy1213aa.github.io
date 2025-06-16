@@ -1,0 +1,35 @@
+yangshun:
+  name: Yangshun Tay
+  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
+  url: https://linkedin.com/in/yangshun
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: yangshunz
+    linkedin: yangshun
+    github: yangshun
+    newsletter: https://www.greatfrontend.com
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
+
+aaron:
+  name: Cheng Sun
+  title: DL/CV/LLM Engineer at ITRI
+  url: https://www.linkedin.com/in/chengsunn/
+  image_url: https://media.licdn.com/dms/image/v2/D5603AQFmkzd0S5qoJA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732952933812?e=1755734400&v=beta&t=5VEwmB4ijJ0Ve1xpqqD56i97ZnKAG4zq_PIDtz4RA1U
+  page: true
+  socials:
+    linkedin: chengsunn
+    github: andy1213aa
