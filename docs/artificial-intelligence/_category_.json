@@ -1,0 +1,8 @@
+{
+  "label": "artificial-intelligence",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "LLM, DL, ML, CV, NLP, and more."
+  }
+}
