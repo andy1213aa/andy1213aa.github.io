@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"New Beginnings \u2014 Baby and Blog","permalink":"/blog/kicking-off","unlisted":false,"date":"2025-07-04T00:00:00.000Z"}]}')}}]);
